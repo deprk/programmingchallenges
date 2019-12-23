@@ -1,5 +1,6 @@
 # programmingchallenges
-A quest to solve them all - practice for the CCC
 
-All code written in python to satisfy the UVA online judge, with problem number and name as titles. 
-One day I'll solve them all! (probably after school gets less busy :/
+Solved contest problems from the textbook:
+
+Programming Challenges: The Programming Contest Training Manual Paperback
+by Steven S Skiena, Miguel A. Revilla 
